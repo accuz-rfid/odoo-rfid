@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Odoo_InvenTrack_RFID_WMS",
-    'summary': "Inventrack_RFID",
+    'name': "Odoo InvenTrack™ RFID WMS",
+    'summary': "The best RFID integration for Android devices",
     'description': """
         1.Inbound
         2.Outbound
@@ -9,8 +9,12 @@
         4.LED locating
         5.Internal Transfer
     """,
-    'author': "accuz",
-    'category': 'odoo_add-ons',
+    'author': "ACCUZ Industries",
+    'category': 'Internet Of Things (IoT)',
+    'technical_name': 'accuz_stock_pda',
+    'license': 'LGPL-3',
+    'Website': 'https://rfidsolution.com',
+    'images': ['static/description/main.png'],
     'version': '18.0',
     'depends': ['base', 'stock'],
     'data': [
