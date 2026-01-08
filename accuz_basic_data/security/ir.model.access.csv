@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_accuz_basic_data_accuz_basic_data,accuz_basic_data.accuz_basic_data,model_accuz_basic_data_accuz_basic_data,base.group_user,1,1,1,1
