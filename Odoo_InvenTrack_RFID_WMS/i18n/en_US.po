@@ -1,0 +1,132 @@
+# Translation of Odoo Module kiloway_stock_pda in English (US)
+# This file contains the translation of the following modules:
+#   * kiloway_stock_pda
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-15 17:29+0000\n"
+"PO-Revision-Date: 2025-09-15 17:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (US) <en_US@odoo.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. module: kiloway_stock_pda
+#: model:ir.model,name:kiloway_stock_pda.model_stock_inventory_log
+msgid "盘点日志"
+msgstr "Log"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log__user_id
+msgid "用户"
+msgstr "User"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log__inventory_date
+msgid "盘点时间"
+msgstr "Inventory Date"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log__log_line
+#: model_terms:ir.ui.view,arch_db:kiloway_stock_pda.view_stock_inventory_log_form
+msgid "盘点明细"
+msgstr "Inventory Lines"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log__state
+msgid "状态"
+msgstr "Status"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log__state__error
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__error
+msgid "失败"
+msgstr "Failed"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log__state__success
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__success
+msgid "成功"
+msgstr "Success"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__quant_id
+msgid "库存"
+msgstr "Inventory"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__state
+msgid "状态"
+msgstr "Status"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__product_id
+msgid "产品"
+msgstr "Product"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__lot_id
+msgid "批次"
+msgstr "Lot/Serial Number"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__location_id
+msgid "从"
+msgstr "From"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__location_dest_id
+msgid "至"
+msgstr "To"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields,field_description:kiloway_stock_pda.field_stock_inventory_log_line__log_id
+msgid "日志"
+msgstr "Log"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__danger
+msgid "创建"
+msgstr "Create"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__notice
+msgid "转移"
+msgstr "Transfer"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__delete
+msgid "删除"
+msgstr "Delete"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__notice_keep
+msgid "转移-保留"
+msgstr "Transfer-Keep in Place"
+
+#. module: kiloway_stock_pda
+#: model:ir.model.fields.selection,name:kiloway_stock_pda.selection__stock_inventory_log_line__state__danger_ignore
+msgid "创建-忽略"
+msgstr "Create-Ignore"
+
+#. module: kiloway_stock_pda
+#: model:ir.actions.act_window,name:kiloway_stock_pda.action_stock_inventory_log
+#: model:ir.ui.menu,name:kiloway_stock_pda.menu_stock_inventory_log
+msgid "盘点记录"
+msgstr "Inventory Adjustments"
+
+#. module: kiloway_stock_pda
+#: model_terms:ir.ui.view,arch_db:kiloway_stock_pda.view_stock_inventory_log_tree
+#: model_terms:ir.ui.view,arch_db:kiloway_stock_pda.view_stock_inventory_log_form
+msgid "盘点日期"
+msgstr "Date"
+
+#. module: kiloway_stock_pda
+#: model_terms:ir.ui.view,arch_db:kiloway_stock_pda.view_stock_inventory_log_form
+msgid "传输"
+msgstr "Transfer"

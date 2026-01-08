@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <menuitem name="Inventory Adjustments"
+              id="menu_stock_inventory_log"
+              sequence="99"
+              action="action_stock_inventory_log"
+              parent="stock.menu_warehouse_report"
+    />
+
+</odoo>
