@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Odoo_InvenTrack™_RFID_WMS",
-    'summary': "Inventrack™_RFID",
+    'name': "Odoo_InvenTrack_RFID_WMS",
+    'summary': "Inventrack_RFID",
     'description': """
         1.Inbound
         2.Outbound
@@ -10,7 +10,7 @@
         5.Internal Transfer
     """,
     'author': "accuz",
-    'category': 'odoo add-ons',
+    'category': 'odoo_add-ons',
     'version': '18.0',
     'depends': ['base', 'stock'],
     'data': [
