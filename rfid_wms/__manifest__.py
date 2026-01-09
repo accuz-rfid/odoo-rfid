@@ -2,7 +2,7 @@
 {
     'name': "Odoo InvenTrack™ RFID WMS",
     'summary': "The best RFID integration for Android devices",
-    'author': ‘ACCUZ Industries’,
+    'author': "ACCUZ Industries",
     'website': 'https://rfidsolution.com',
     'description': """
         1.Inbound
