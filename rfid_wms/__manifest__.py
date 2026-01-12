@@ -10,7 +10,7 @@
         5.Internal Transfer
     """,
     'author': "ACCUZ Industries",
-    'website': 'https://rfidsolution.com',
+    'website': 'https://rfidsolution.com/odoo-inventrack-rfid-wms/',
     'license': 'LGPL-3',
     'category': 'Internet of Things (IoT)',
     'images': ['static/description/main.png'],
