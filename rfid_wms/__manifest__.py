@@ -13,7 +13,16 @@
     'website': 'https://rfidsolution.com/odoo-inventrack-rfid-wms/',
     'license': 'LGPL-3',
     'category': 'Internet of Things (IoT)',
-    'images': ['static/description/main.png'],
+    'images': [
+        "static/description/main.png",
+        "static/description/image1.png",
+        "static/description/image2.png",
+        "static/description/image3.png",
+        "static/description/image4.png",
+        "static/description/image5.png",
+        "static/description/sp.png",
+    ],
+
     'version': '19.0.1.0',
     'depends': ['base', 'stock'],
     'data': [
