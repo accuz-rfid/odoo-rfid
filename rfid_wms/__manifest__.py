@@ -20,8 +20,6 @@
         "static/description/image3.png",
         "static/description/image4.png",
         "static/description/image5.png",
-        "static/description/btn1.png",
-        "static/description/btn2.png",
         "static/description/sp.png",
     ],
 
