@@ -13,7 +13,18 @@
     """,
     'category': 'Internet Of Things (IoT)',
     'license': 'LGPL-3',
-    'images': ['static/description/main.png'],
+    'images': [
+        "static/description/main.png",
+        "static/description/image1.png",
+        "static/description/image2.png",
+        "static/description/image3.png",
+        "static/description/image4.png",
+        "static/description/image5.png",
+        "static/description/btn1.png",
+        "static/description/btn2.png",
+        "static/description/sp.png",
+    ],
+
     'version': '18.0',
     'depends': ['base', 'stock'],
     'data': [
