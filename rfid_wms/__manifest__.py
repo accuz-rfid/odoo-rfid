@@ -17,7 +17,6 @@
         "static/description/main.png",
         "static/description/image1.png",
         "static/description/image2.png",
-        "static/description/image3.png",
         "static/description/image4.png",
         "static/description/image5.png",
         "static/description/sp.png",
